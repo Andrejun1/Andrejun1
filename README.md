@@ -99,13 +99,7 @@ const andre: Developer = {
 
 ---
 
-## `> ACTIVITY_GRAPH`
 
-<div align="center">
-
-[![Andre's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Andrejun1&bg_color=0d0d0d&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=true)](https://github.com/Andrejun1)
-
-</div>
 
 ---
 
