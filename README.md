@@ -119,11 +119,7 @@ const andre: Developer = {
 
 ---
 
-## `> CONTRIBUTION_SNAKE.py`
-
 [snake gif](https://github.com/Andrejun1/Andrejun1/blob/output/github-snake-dark.svg)
-
----
 
 ## `> CONNECT.sh`
 
