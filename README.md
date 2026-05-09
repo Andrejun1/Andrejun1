@@ -4,14 +4,6 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andrejun1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrejun1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d"/>
-
-</div>
-
-<div align="center">
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Andrejun1&theme=tokyonight&hide_border=true&background=0D0D0D)
 
 </div>
