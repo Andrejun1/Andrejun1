@@ -99,7 +99,7 @@ const andre: Developer = {
 
 ---
 
-
+![snake gif](https://github.com/Andrejun1/Andrejun1/blob/output/github-snake-dark.svg)
 
 ---
 
