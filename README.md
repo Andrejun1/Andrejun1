@@ -119,6 +119,8 @@ const andre: Developer = {
 
 ---
 
+## `> CONTRIBUTION`
+
 ![snake gif](https://github.com/Andrejun1/Andrejun1/blob/output/github-snake-dark.svg)
 
 ## `> CONNECT.sh`
