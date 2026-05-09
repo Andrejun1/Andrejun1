@@ -1,26 +1,31 @@
-## `> CONTRIBUTION`
 
+<div align="center">
 ![snake gif](https://github.com/Andrejun1/Andrejun1/blob/output/github-snake-dark.svg)
+</div>
 
----
 
-## `> ABOUT_ME.exe`
+<div align="center">
 
-```typescript
-const andre: Developer = {
-  name:              "Andre Junika",
-  alias:             "Andrejun1",
-  role:              "Full Stack Developer",
-  currentlyLearning: "Frameworks & Architecture",
-  contact:           "junikayusuf11@gmail.com",
-  funFact:           "I think I am funny ⚡",
-  availableForWork:  true,
-};
-```
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andrejun1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d"/>
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrejun1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d"/>
 
-## `> TECH_STACK.json`
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Andrejun1&theme=tokyonight&hide_border=true&background=0D0D0D)
+
+</div>
+
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Andrejun1&theme=tokyonight&no-frame=true&column=7)](https://github.com/Andrejun1)
+
+</div>
+
+
 
 <div align="center">
 
@@ -62,37 +67,6 @@ const andre: Developer = {
 
 </div>
 
----
-
-## `> GITHUB_STATS.log`
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andrejun1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrejun1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Andrejun1&theme=tokyonight&hide_border=true&background=0D0D0D)
-
-</div>
-
----
-
-## `> TROPHIES.exe`
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Andrejun1&theme=tokyonight&no-frame=true&column=7)](https://github.com/Andrejun1)
-
-</div>
-
----
-
-## `> ACTIVITY_GRAPH`
 
 <div align="center">
 
@@ -100,9 +74,6 @@ const andre: Developer = {
 
 </div>
 
----
-
-## `> CONNECT.sh`
 
 <div align="center">
 
@@ -121,7 +92,6 @@ $ curl -X GET https://github.com/Andrejun1
 
 </div>
 
----
 
 <div align="center">
 
