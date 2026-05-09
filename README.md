@@ -1,23 +1,6 @@
-<div align="center">
+## `> CONTRIBUTION`
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   ██████╗  ███████╗██╗   ██╗    ██╗  ██╗██╗                 ║
-║   ██╔══██╗ ██╔════╝██║   ██║    ██║  ██║██║                 ║
-║   ██║  ██║ █████╗  ██║   ██║    ███████║██║                 ║
-║   ██║  ██║ ██╔══╝  ╚██╗ ██╔╝    ██╔══██║██║                 ║
-║   ██████╔╝ ███████╗ ╚████╔╝     ██║  ██║██║                 ║
-║   ╚═════╝  ╚══════╝  ╚═══╝      ╚═╝  ╚═╝╚═╝                 ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;TypeScript+%2B+React+Enthusiast;Building+things+that+actually+work.;git+commit+-m+%22ship+it%22" alt="Typing SVG" />
-
-![Visitor Badge](https://komarev.com/ghpvc/?username=Andrejun1&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)
-
-</div>
+![snake gif](https://github.com/Andrejun1/Andrejun1/blob/output/github-snake-dark.svg)
 
 ---
 
@@ -118,10 +101,6 @@ const andre: Developer = {
 </div>
 
 ---
-
-## `> CONTRIBUTION`
-
-![snake gif](https://github.com/Andrejun1/Andrejun1/blob/output/github-snake-dark.svg)
 
 ## `> CONNECT.sh`
 
