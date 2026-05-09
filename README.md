@@ -121,11 +121,7 @@ const andre: Developer = {
 
 ## `> CONTRIBUTION_SNAKE.py`
 
-<div align="center">
-
 [snake gif](https://github.com/Andrejun1/Andrejun1/blob/output/github-snake-dark.svg)
-
-</div>
 
 ---
 
