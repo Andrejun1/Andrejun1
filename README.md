@@ -119,7 +119,7 @@ const andre: Developer = {
 
 ---
 
-[snake gif](https://github.com/Andrejun1/Andrejun1/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
 
 ## `> CONNECT.sh`
 
