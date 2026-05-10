@@ -13,7 +13,7 @@
 
 <div align="center">
 
-![snake gif](https://github.com/Andrejun1/Andrejun1/blob/output/github-snake-dark.svg)
+![GitHub Snake Dark](https://raw.githubusercontent.com/Andrejun1/Andrejun1/output/github-snake-dark.svg)
 
 </div>
 
