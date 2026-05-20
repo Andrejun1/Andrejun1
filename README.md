@@ -1,15 +1,106 @@
-<div align="center">
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Andre Junika</h1>
+<h3 align="center">Full Stack Developer</h3>
 
-# Hi there, I'm Andre Junika 👋
-### Full Stack & Mobile Developer
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Andrejun1">
+    <img src="https://komarev.com/ghpvc/?username=Andrejun1&label=Profile%20views&color=00FFFF&style=flat-square" alt="Andrejun1's profile views" />
+  </a>
+</p>
 
-> Building modern web, mobile, and IoT experiences.
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
-</div>
+## 📌 About Me
+- i m so funny
 
----
 
-<h1 align="center">🚀 GitHub Overview</h1>
+## 🧠 My Focus Areas
+- web development
+- android development
+
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/Andrejun1">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Andrejun1&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="Andrejun1's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=Andrejun1&theme=dracula&hide_border=true&cache_seconds=86400" alt="Andrejun1's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=Andrejun1&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Andre Junika's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Andrejun1&theme=dracula&radius=10" alt="Andrejun1's Activity Graph" />
+</p>
+
+
+## 🛠️ Languages & Tools
+
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
+
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
+
+</p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />
+
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />
+
+</p>
+
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/Andrejun1">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Andrejun1&langs_count=8&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="mailto:junikayusuf11@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.andrejunika.my.id/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+  </a>
+</p>
+
+## 💬 Quote
+> Man Jadda Wajada (مَنْ جَدَّ وَجَدَ)
 
 <div align="center">
 
@@ -17,115 +108,7 @@
 
 </div>
 
----
-
-<h1 align="center">📊 GitHub Statistics</h1>
-
 <div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Andrejun1&theme=tokyonight&hide_border=true&background=0D0D0D)
-
-<br/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Andrejun1&theme=tokyonight&no-frame=true&column=7)](https://github.com/Andrejun1)
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
 
----
-
-<h1 align="center">💻 Tech Stack</h1>
-
-<h3 align="center">🎨 Frontend</h1>
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-</div>
-
----
-
-<h3 align="center">⚙️ Backend</h1>
-
-<div align="center">
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-</div>
-
----
-
-<h3 align="center">📱 Mobile Development</h1>
-
-<div align="center">
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=54C5F8)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-
-</div>
-
----
-
-<h3 align="center">🛠 Tools & DevOps</h1>
-
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00878A?style=for-the-badge&logo=arduino&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
----
-
-<h1 align="center">📈 Contribution Graph</h1>
-
-<div align="center">
-
-[![Andre's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Andrejun1&bg_color=0d0d0d&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true)](https://github.com/Andrejun1)
-
-</div>
-
----
-
-<h1 align="center">🌐 Connect With Me</h1>
-
-<div align="center">
-
-```bash
-$ curl -X GET https://github.com/Andrejun1
-> Status: 200 OK — Profile found.
-```
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Andrejun1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Andrejun1)
-
-[![Discord](https://img.shields.io/badge/Discord-k.genm-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/k.genm)
-
-[![Email](https://img.shields.io/badge/Email-junikayusuf11@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:junikayusuf11@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-## ⚡ Final Message
-
-```txt
-[ system: always building. never stopping. ]
-```
-
-</div>
