@@ -102,11 +102,9 @@
 ## 💬 Quote
 > Man Jadda Wajada (مَنْ جَدَّ وَجَدَ)
 
-<div align="center">
-
-![GitHub Snake Dark](https://raw.githubusercontent.com/Andrejun1/Andrejun1/output/github-snake-dark.svg)
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Andrejun1/Andrejun1/main/game.gif" alt="Space shooter contribution graph" />
+</p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
