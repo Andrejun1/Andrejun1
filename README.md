@@ -103,7 +103,7 @@
 > Man Jadda Wajada (مَنْ جَدَّ وَجَدَ)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Andrejun1/Andrejun1/main/game.gif" alt="Space shooter contribution graph" />
+  <img src="https://github.com/Andrejun1/Andrejun1/blob/main/game.gif?raw=true" alt="Space shooter contribution graph" />
 </p>
 
 <div align="center">
