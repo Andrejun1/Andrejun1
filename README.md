@@ -2,7 +2,6 @@
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Andrejun1">
     <img src="https://komarev.com/ghpvc/?username=Andrejun1&label=Profile%20views&color=00FFFF&style=flat-square" alt="Andrejun1's profile views" />
   </a>
 </p>
