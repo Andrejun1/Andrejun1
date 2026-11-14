@@ -15,8 +15,8 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/Andrejun1">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Andrejun1&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="Andrejun1's GitHub Stats" />
   </a>
+  <img src="https://streak-stats.demolab.com/?user=Andrejun1&theme=dracula&hide_border=true&cache_seconds=86400" alt="Andrejun1's GitHub Streak" width="49%" />
 </p>
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=Andrejun1&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Andre Junika's GitHub Trophies" />
